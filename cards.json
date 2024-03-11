@@ -1,0 +1,101 @@
+[
+    {
+        "id": "myModal1",
+        "title": "Encontro de Casais",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "asdjhaksdjh kasdhsa dashkd jaskdahskdsjahd ksajd",
+        "contentModal": "teste 123",
+        "link": "https://www.youtube.com"
+    },
+    {
+        "id": "myModal2",
+        "title": "Modal title 2",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 2",
+        "contentModal": "Conteúdo do meu modal 2asd"
+    },
+    {
+        "id": "myModal3",
+        "title": "Modal title 3",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 3",
+        "contentModal": "Conteúdo do meu modal 3"
+    },
+    {
+        "id": "myModal4",
+        "title": "Modal title 4",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 4",
+        "contentModal": "Conteúdo do meu modal 4"
+    },
+    {
+        "id": "myModal5",
+        "title": "Modal title 5",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 5",
+        "contentModal": "Conteúdo do meu modal 5"
+    },
+    {
+        "id": "myModal6",
+        "title": "Modal title 6",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 6",
+        "contentModal": "Conteúdo do meu modal 6"
+    },
+    {
+        "id": "myModal7",
+        "title": "Modal title 7",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 7",
+        "contentModal": "Conteúdo do meu modal 7"
+    },
+    {
+        "id": "myModal2",
+        "title": "Modal title 2",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 2",
+        "contentModal": "Conteúdo do meu modal 2asd"
+    },
+    {
+        "id": "myModal3",
+        "title": "Modal title 3",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 3",
+        "contentModal": "Conteúdo do meu modal 3"
+    },
+    {
+        "id": "myModal4",
+        "title": "Modal title 4",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 4",
+        "contentModal": "Conteúdo do meu modal 4"
+    },
+    {
+        "id": "myModal5",
+        "title": "Modal title 5",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 5",
+        "contentModal": "Conteúdo do meu modal 5"
+    },
+    {
+        "id": "myModal6",
+        "title": "Modal title 6",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 6",
+        "contentModal": "Conteúdo do meu modal 6"
+    },
+    {
+        "id": "myModal7",
+        "title": "Modal title 7",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 7",
+        "contentModal": "Conteúdo do meu modal 7"
+    },
+    {
+        "id": "myModal8",
+        "title": "Modal title 8",
+        "imgSrc": "/imgs/Encontro Casais  - FEED2.png",
+        "contentCard": "Conteúdo do meu modal 8",
+        "contentModal": "Conteúdo do meu modal 8"
+    }
+]
